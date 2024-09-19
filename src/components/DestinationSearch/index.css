@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.heading {
+  text-align: center;
+}
+.searchBox {
+  margin-left: 500px;
+  height: 4vh;
+  width: 25vw;
+}
+.searchIcon {
+  height: 4vh;
+  width: 2vw;
+}
